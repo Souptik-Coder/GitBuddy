@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GitBuddy/static/css/main.738adbda.css",
+    "main.js": "/GitBuddy/static/js/main.ba9f65a0.js",
+    "index.html": "/GitBuddy/index.html",
+    "main.738adbda.css.map": "/GitBuddy/static/css/main.738adbda.css.map",
+    "main.ba9f65a0.js.map": "/GitBuddy/static/js/main.ba9f65a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.738adbda.css",
+    "static/js/main.ba9f65a0.js"
+  ]
+}
